@@ -8,7 +8,7 @@ defmodule Math do
 
   ## Examples
   iex> Math.add(3,5)
-  :8
+  8
 
   """
   def add(x,y) do
